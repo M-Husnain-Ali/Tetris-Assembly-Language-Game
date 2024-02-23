@@ -57,7 +57,7 @@ Certainly! Here's the step-by-step guide, properly ordered:
 
 1) Clone the repository to your local machine:
 
-(https://github.com/M-Husnain-Ali/Tetris-Assembly-Language-Game.git)
+(https://github.com/M-Husnain-Ali/Tetris-Game.git)
 
 2) Install an assembly code runner software on your machine.
 
