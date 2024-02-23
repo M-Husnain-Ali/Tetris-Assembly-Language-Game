@@ -1,4 +1,4 @@
-# Tetris Assembly Game
+# Tetris Assembly Language Game
 
 ## Overview
 
